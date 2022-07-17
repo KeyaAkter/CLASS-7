@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(175, 44, 153);
+}
+.box {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  margin: 100px auto;
+  border-radius: 10px;
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.1);
+}
+.neo-box {
+  width: 300px;
+  height: 300px;
+  /* background-color: brown; */
+  margin: 0 auto 100px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #c1cacc, -5px -5px 15px #fdffff;
+}
+.neo-box-2 {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto 100px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(90, 19, 78), -5px -5px 10px rgb(238, 76, 211);
+}
