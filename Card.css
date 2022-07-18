@@ -20,7 +20,7 @@ body {
 .card-img {
   width: 200px;
   height: 200px;
-  background-color: crimson;
+  /* background-color: crimson; */
   overflow: hidden;
   margin: 25px auto 0;
   border-radius: 50%;
